@@ -1,5 +1,5 @@
 # Blokus
-implements the Blokus Game 
+implements the Blokus Game using JAVA
 
 Blokus-Game
 This is a group project and the goal is to replicate a game called Blokus
